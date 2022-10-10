@@ -64,7 +64,7 @@ const reviews = [
     date: "09.03.2022",
     title: "Kinda Badass",
     comment: "lorem ipsum sit amet...",
-    rating: 4,
+    rating: 5,
     productId: "1",
   },
   {
